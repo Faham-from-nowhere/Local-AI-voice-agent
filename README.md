@@ -23,7 +23,7 @@ Built with a strong focus on data sovereignty, this system ensures that your voi
 
 ## 📸 Demo
 
-![Video Demonstration]([(https://youtu.be/pUsEdgVNIR8)])
+[Video Demonstration]([(https://youtu.be/pUsEdgVNIR8)])
 *The agent successfully parsing a compound command into a strict JSON intent array and executing the tools.*
 
 ---
@@ -99,7 +99,7 @@ The agent will:
 
 For a deep dive into how I solved the token cut-off issues, engineered the `CODE_CONTEXT` flag, and optimized this pipeline to run effectively even on lower-end hardware, check out my full article:
 
-👉 **[Read the article on Medium here]([(https://medium.com/@mohdfahamb/how-i-built-a-multi-intent-voice-agent-and-stopped-my-llm-from-crashing-778ec6e122d7)])**
+👉 **[Read the article on Medium here](https://medium.com/@mohdfahamb/how-i-built-a-multi-intent-voice-agent-and-stopped-my-llm-from-crashing-778ec6e122d7)**
 
 -----
 
