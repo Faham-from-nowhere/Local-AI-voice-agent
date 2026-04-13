@@ -23,7 +23,7 @@ Built with a strong focus on data sovereignty, this system ensures that your voi
 
 ## 📸 Demo
 
-[Video Demonstration]([(https://youtu.be/pUsEdgVNIR8)])
+[Video Demonstration](https://youtu.be/pUsEdgVNIR8)
 *The agent successfully parsing a compound command into a strict JSON intent array and executing the tools.*
 
 ---
